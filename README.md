@@ -1,4 +1,4 @@
-# Organizador Enterprise 3.2 — Assessoria Coelho
+# Organizador Enterprise 3.2 - Assessoria Coelho
 
 Sistema de automação para recebimento, organização e 
 protocolização de documentos contábeis de clientes, 
@@ -7,8 +7,8 @@ desenvolvido e implantado em ambiente de produção real.
 ## Problema resolvido
 
 A Assessoria Coelho recebia documentos contábeis de 
-múltiplos clientes de forma desorganizada — por e-mail, 
-WhatsApp e outros canais — sem padronização de nomenclatura, 
+múltiplos clientes de forma desorganizada - por e-mail, 
+WhatsApp e outros canais - sem padronização de nomenclatura, 
 sem confirmação de recebimento e sem rastreabilidade.
 
 O sistema eliminou esse processo manual, automatizando 
