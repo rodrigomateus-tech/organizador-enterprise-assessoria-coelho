@@ -15,19 +15,22 @@ O sistema eliminou esse processo manual, automatizando
 100% do fluxo desde o recebimento até a confirmação.
 
 ## Como funciona
+
+```
 Cliente preenche o formulário
-↓
+        ↓
 Trigger dispara automaticamente (onFormSubmit)
-↓
+        ↓
 Script identifica empresa e mês de referência
-↓
+        ↓
 Cria estrutura de pastas: /EMPRESA/MÊS/
-↓
+        ↓
 Renomeia arquivos: EMPRESA - MÊS - nome_original
-↓
+        ↓
 Gera PDF de protocolo com logo e lista de documentos
-↓
+        ↓
 Envia e-mail automático com link para o protocolo
+```
 
 ## Funcionalidades
 
