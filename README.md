@@ -97,8 +97,10 @@ Confirma o recebimento ao cliente + registra o envio na planilha de log
 2. Abra o Apps Script vinculado ao formulário
    (Extensões → Apps Script)
 3. Cole o código de `codigo.gs`
-4. No bloco `CONFIG`, substitua o `ID_LOGO` pelo ID 
-   do seu arquivo de logo no Google Drive
+4. No bloco `CONFIG`, substitua os três placeholders pelos seus dados reais:
+   - `EMAIL_DESTINO` — e-mail que recebe as notificações
+   - `ID_LOGO` — ID do arquivo de logo no Google Drive
+   - `ID_PLANILHA_LOG` — ID da planilha de log (opcional)
 5. Crie uma planilha em branco e cole o ID dela em 
    `ID_PLANILHA_LOG` para ativar o painel de envios
    (opcional - sem isso o sistema funciona, apenas não registra o log)
